@@ -17,7 +17,7 @@ ___
   </tr>
   <tr>
     <td style="text-align:center; padding:12px;">
-      <div style="display:flex; justify-content:center; gap:12px; align-items:center; flex-wrap:wrap;">
+      <div style="display:grid; grid-template-columns:repeat(2, auto); gap:12px; justify-content:center; align-items:center;">
         <img height="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" title="LangChain"> 
         <img height="40" src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face"> 
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn"> 
@@ -25,23 +25,24 @@ ___
       </div>
     </td>
     <td style="text-align:center; padding:12px;">
-      <div style="display:flex; justify-content:center; gap:12px; align-items:center; flex-wrap:wrap;">
+      <div style="display:grid; grid-template-columns:repeat(2, auto); gap:12px; justify-content:center; align-items:center;">
         <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React"> 
+        <img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular"> 
         <img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML"> 
         <img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" title="CSS">
       </div>
     </td>
     <td style="text-align:center; padding:12px;">
-      <div style="display:flex; justify-content:center; gap:12px; align-items:center; flex-wrap:wrap;">
-        <img height="29" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png" title="Azure"> 
-        <img height="29" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS">
+      <div style="display:grid; grid-template-columns:repeat(2, auto); gap:12px; justify-content:center; align-items:center;">
+        <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png" title="Azure"> 
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS">
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"> 
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes">
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="Postgres"> 
       </div>
     </td>
     <td style="text-align:center; padding:12px;">
-      <div style="display:flex; justify-content:center; gap:12px; align-items:center; flex-wrap:wrap;">
+      <div style="display:grid; grid-template-columns:repeat(2, auto); gap:12px; justify-content:center; align-items:center;">
         <img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python"> 
         <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" title="TypeScript"> 
         <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" title="Java"> 
