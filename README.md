@@ -3,6 +3,8 @@
 #### 👨‍💻 Erik Autenrieth,  M.Sc. Computer Science,  Hochschule Bonn‑Rhein‑Sieg (H‑BRS)
 
 
+MLOps für Zeitreihenanalyse — Seminararbeit · [DOI: 10.18418/opus-7847](https://doi.org/10.18418/opus-7847)
+
 ___
 
 <div style="width:100%; overflow:auto;">
@@ -31,7 +33,6 @@ ___
       <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"> 
       <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"><br>
       <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="Postgres"> 
-      <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" title="MLflow">
     </td>
     <td style="text-align:center; padding:12px;">
       <img height="48" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python"> 
@@ -49,20 +50,6 @@ ___
   <a href="https://www.hackerrank.com/profile/e_aut"> <img height="25px" src="https://shields.io/badge/HackerRank-%40e__aut-blue?logo=hackerrank&style=for-the-badge" title="HackerRank" target="_blank"></a>
   <a href="https://leetcode.com/ErikAut/"> <img height="25px" src="https://shields.io/badge/LeetCode-ErikAut-blue?logo=leetcode&style=for-the-badge" title="LeetCode" target="_blank"></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
