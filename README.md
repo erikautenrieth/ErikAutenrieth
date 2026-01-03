@@ -3,12 +3,12 @@
 #### 👨‍💻 Erik Autenrieth,  M.Sc. Computer Science,  Hochschule Bonn‑Rhein‑Sieg (H‑BRS)
 
 
-MLOps für Zeitreihenanalyse — Seminararbeit · [DOI: 10.18418/opus-7847](https://doi.org/10.18418/opus-7847)
+MLOps für Zeitreihenanalysen · [DOI: 10.18418/opus-7847](https://doi.org/10.18418/opus-7847)
 
 ___
 
-<div style="width:100%; overflow:auto;">
-<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<div style="width:100vw; margin-left:calc(50% - 50vw); overflow:auto;">
+<table style="width:100%; max-width:none; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <th style="width:25%; text-align:center; padding:8px;">ML / AI</th>
     <th style="width:25%; text-align:center; padding:8px;">Frontend</th>
@@ -42,6 +42,8 @@ ___
     </td>
   </tr>
 </table>
+
+
 </div>
   <h4 align="center"> 📝 Contacts & Accounts 📝</h4>
 
