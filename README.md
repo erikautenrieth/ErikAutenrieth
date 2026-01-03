@@ -52,9 +52,8 @@ ___
   </tr>
 </table>
 
-
 </div>
-  <h4 align="center"> 📝 Contacts & Accounts 📝</h4>
+  <h4 align="center">  Contacts & Accounts </h4>
 
 <p align="center">
   <a href="#"> <img height="25px" src="https://shields.io/badge/E--Mail-e.aut21%40gmail.com-blue?logo=gmail&style=for-the-badge" title="E-Mail"></a>
